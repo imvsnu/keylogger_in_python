@@ -1,3 +1,3 @@
 # keylogger_in_python
 
-This is very simple keylogger written in python pyxhook.
+This is very simple keylogger written in python using pyxhook.
